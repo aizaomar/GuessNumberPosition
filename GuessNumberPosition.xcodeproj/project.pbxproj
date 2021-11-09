@@ -57,11 +57,11 @@
 		6567CD712739512F00DD2E08 /* GuessNumberPosition */ = {
 			isa = PBXGroup;
 			children = (
-				651DC820273AD68000AD17C2 /* ButtonView.swift */,
 				6567CD722739512F00DD2E08 /* GuessNumberPositionApp.swift */,
 				6567CD742739512F00DD2E08 /* ContentView.swift */,
-				651DC81E273AC83000AD17C2 /* NumberRangeSlider.swift */,
+				651DC820273AD68000AD17C2 /* ButtonView.swift */,
 				651DC822273AD72000AD17C2 /* SliderView.swift */,
+				651DC81E273AC83000AD17C2 /* NumberRangeSlider.swift */,
 				6567CD762739513100DD2E08 /* Assets.xcassets */,
 				6567CD782739513100DD2E08 /* Preview Content */,
 			);
