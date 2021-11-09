@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		651DC81F273AC83000AD17C2 /* NumberRangeSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 651DC81E273AC83000AD17C2 /* NumberRangeSlider.swift */; };
+		651DC821273AD68000AD17C2 /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 651DC820273AD68000AD17C2 /* ButtonView.swift */; };
+		651DC823273AD72000AD17C2 /* SliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 651DC822273AD72000AD17C2 /* SliderView.swift */; };
 		6567CD732739512F00DD2E08 /* GuessNumberPositionApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6567CD722739512F00DD2E08 /* GuessNumberPositionApp.swift */; };
 		6567CD752739512F00DD2E08 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6567CD742739512F00DD2E08 /* ContentView.swift */; };
 		6567CD772739513100DD2E08 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6567CD762739513100DD2E08 /* Assets.xcassets */; };
@@ -14,6 +17,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		651DC81E273AC83000AD17C2 /* NumberRangeSlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberRangeSlider.swift; sourceTree = "<group>"; };
+		651DC820273AD68000AD17C2 /* ButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView.swift; sourceTree = "<group>"; };
+		651DC822273AD72000AD17C2 /* SliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderView.swift; sourceTree = "<group>"; };
 		6567CD6F2739512F00DD2E08 /* GuessNumberPosition.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GuessNumberPosition.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6567CD722739512F00DD2E08 /* GuessNumberPositionApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuessNumberPositionApp.swift; sourceTree = "<group>"; };
 		6567CD742739512F00DD2E08 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -51,8 +57,11 @@
 		6567CD712739512F00DD2E08 /* GuessNumberPosition */ = {
 			isa = PBXGroup;
 			children = (
+				651DC820273AD68000AD17C2 /* ButtonView.swift */,
 				6567CD722739512F00DD2E08 /* GuessNumberPositionApp.swift */,
 				6567CD742739512F00DD2E08 /* ContentView.swift */,
+				651DC81E273AC83000AD17C2 /* NumberRangeSlider.swift */,
+				651DC822273AD72000AD17C2 /* SliderView.swift */,
 				6567CD762739513100DD2E08 /* Assets.xcassets */,
 				6567CD782739513100DD2E08 /* Preview Content */,
 			);
@@ -139,6 +148,9 @@
 			files = (
 				6567CD752739512F00DD2E08 /* ContentView.swift in Sources */,
 				6567CD732739512F00DD2E08 /* GuessNumberPositionApp.swift in Sources */,
+				651DC821273AD68000AD17C2 /* ButtonView.swift in Sources */,
+				651DC81F273AC83000AD17C2 /* NumberRangeSlider.swift in Sources */,
+				651DC823273AD72000AD17C2 /* SliderView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
