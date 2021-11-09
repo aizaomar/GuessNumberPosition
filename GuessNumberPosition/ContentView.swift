@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     @State private var currentValue: Double = 0.5
-    @State private var targetValue: Int = Int.random(in: 0...100)
+    @State private var targetValue: Int = 30
     @State private var opacity: Double = 1.0
     
     @State private var showAlert =  false
