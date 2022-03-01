@@ -1,4 +1,6 @@
 # GuessNumberPosition
 
+# Used technologies:
+
 - SwiftUI
 
